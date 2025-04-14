@@ -24,5 +24,18 @@ The goal is to help businesses understand how their customers shop, what sells b
 
 ---
 
-## Project Structure
+## Data Sources
 
+- **Sales Data**: Contains details on sales transactions, including product IDs, quantities, and sales amounts.
+- **Customer Data**: Contains demographic and purchasing behavior data for customers.
+- **Product Data**: Contains details on products, including categories and prices.
+
+The data for this project is sourced from Kaggle and can be found [here](https://www.kaggle.com/datasets/atharvasoundankar/fashion-retail-sales).
+
+---
+
+## Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/youssefm0/Fashion-Retail.git
