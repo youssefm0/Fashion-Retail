@@ -20,7 +20,7 @@ The goal is to help businesses understand how their customers shop, what sells b
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](assets/images/Fashion%20retail_page-0001-min.jpg)
+![Dashboard Screenshot](https://raw.githubusercontent.com/youssefm0/Fashion-Retail/main/assets/images/Fashion%20retail_page-0001-min.jpg)
 
 ---
 
